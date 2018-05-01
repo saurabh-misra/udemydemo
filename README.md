@@ -4,4 +4,4 @@ This is a simple readme file
 
 modified
 
-modified again in branch updates
+updates from master branch
