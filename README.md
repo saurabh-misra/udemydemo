@@ -2,6 +2,6 @@
 
 This is a simple readme file
 
-modified
+some more updates in stage
 
-updates from master branch
+some more updates in working directory
